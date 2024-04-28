@@ -1,2 +1,2 @@
-# sistema-estoque
-Criação de um sistema de estoque utilizando CRUD
+# Sistema Estoque
+Criação de um sistema de estoque utilizando CRUD.
